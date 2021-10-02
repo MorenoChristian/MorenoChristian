@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MorenoChristian
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python and Django Onlyne
+- 🌱 I’m currently learning Python & Django Online with Platzi and Informatorio
 - 💞️ I’m looking to collaborate on: At present i´m learning how to program correctly  
 - 📫 How to reach me ...
 
